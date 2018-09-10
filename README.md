@@ -43,7 +43,8 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 
 ### [Merge](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge)
 [Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
-[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)
+[Fictitious Names](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
+[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
 ### [Stats](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats)
 [US_Baby_Names](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
